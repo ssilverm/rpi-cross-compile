@@ -7,7 +7,7 @@ Required packages for openSUSE:
 
 Required packages for debian based distros (not tested totally yet, do not use it on debian yet):
 
-    sudo apt-get install debootstrap qemu-user qemu-user-static wget git
+    sudo apt-get install debootstrap qemu-user qemu-user-static wget git unzip m4
 
 In case you are using 64bit environment (prefered) you must install next packages
 
